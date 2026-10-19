@@ -1,0 +1,13 @@
+# Verilator / cocotb
+sim_build/
+__pycache__/
+*.pyc
+results.xml
+
+# Waveforms
+*.fst
+*.vcd
+
+# macOS
+.DS_Store
+README.md
